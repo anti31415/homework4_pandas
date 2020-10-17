@@ -10,4 +10,5 @@ I think I would recommand to put more weight on Argo 1. Because it shows not onl
 
 I pick Amzn, Baba, Qcom and Ttd to build my portfolio and I allocate them evenly. As a result, it turns out the best performance among the portfolios. But when I check out more details, sharp ratio, for example, it shows lower sharp ratio than Argo 1. It means that it does not have the best risk reward ratio during the defined timeframe. In the mean time, it also has a higher standard deviation than the benchmark, which means this fortfolio has high risk. So my obersation is that the portfolio I created is less stable than Argo-1 even if it has a better performance. I can take it as a luck. 
 
+### Take-Away
 During this exercise, I get a better understanding of standard deviation, correlation, Beta, sharp ratio. I would take more attention to the sharp ratio when picking mutual funds or ETFs. When building stock portfolio, I would pay more attention to correlations and manage the overall sharp ratio.
